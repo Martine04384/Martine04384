@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on:
- Fine-tuning my projects and my first developer portfolio – showcasing my projects, skills, and journey so far:
-	•	Powder Paths – a blog project that brings together frontend development and my passion for ski touring ❄️🏔️
-	•	Square Eyes – an interactive online movie store built with JavaScript
-	•	Community Cinema – a responsive HTML/CSS site promoting accessible local screenings
+ Fine-tuning my projects and my first developer portfolio – showcasing my projects, skills, and journey so far.
 
 🌱 I’m currently learning:
 JavaScript best practices, accessibility, and how to build user-friendly, inclusive front-end applications.
